@@ -1,6 +1,6 @@
 int count;
 float x;
-char texts;
+String texts;
 
 count=100;
 count=count+1;
@@ -25,5 +25,6 @@ size(500,500);
 line(width/3,0,width/3,height);
 line(0,height/2,width,height/2);
 
+text("githubstudy_naoki", width/2, height/2);
 int _int = 10; 
 print(_int);
