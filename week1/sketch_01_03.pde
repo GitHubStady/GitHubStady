@@ -19,7 +19,8 @@ textSize(30);
 
 PFont font = createFont("Meiryo", 50);
 textFont(font);
-text("こんにちは", 10, 50);
+text("こんにちは世界！", 10, 50);
+text("うるせえ", 10, 500);
 
 stroke( 128 );
 rect(50,30,200,40);
