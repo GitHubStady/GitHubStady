@@ -21,6 +21,9 @@ PFont font = createFont("Meiryo", 50);
 textFont(font);
 text("こんにちは世界！", 10, 50);
 text("うるせえ", 10, 500);
+textSize(10);
+text("pullさせてくださあああああああああい",10,250);
+textSize(50);
 
 stroke( 128 );
 rect(50,30,200,40);
